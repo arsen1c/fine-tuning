@@ -9,3 +9,7 @@ models/*
 
 # Virtual environments
 .venv
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
